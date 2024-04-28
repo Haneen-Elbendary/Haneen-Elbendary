@@ -10,7 +10,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFlc2RoNm5yem56MzNrNHBwMmx5anh1aGx4ejdicWNqdWk0ZnFjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 </p> 
 
-- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
+- I'am IT student @ DTU
+- Interested in WEB development & Software Engineering.
 
 
 ### Connect with Me :
