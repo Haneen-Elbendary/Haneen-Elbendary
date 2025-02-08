@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Haneen Elbendary</h1>
 <h3 align="center">I am a Back-End Developer with a strong passion for JavaScript and expertise in Node.js, where I build scalable, efficient, and high-performance applications. While my focus is on back-end development, I also have experience with front-end technologies, particularly Angular. As a problem solver, I have a solid foundation in programming fundamentals, OOP, data structures, and algorithms, allowing me to write clean, maintainable, and optimized code. I also have experience with SOLID principles, networking (CCNA), and security best practices.</h3>
 
-- 🔭 I’m currently working on [Natours](https://github.com/Haneen-Elbendary/Natours)
+- 🔭 **Currently working on:** [Natours](https://github.com/Haneen-Elbendary/Natours)  
+- 🌱 **Learning:** Advanced Node.js concepts, system design, scalable back-end architectures, and soft skills (communication, leadership, teamwork).  
+- 👯 **Looking to collaborate on:** Open-source Node.js back-end projects.  
+- 🤝 **Looking for help with:** Exploring advanced back-end architectures, optimizing Node.js performance, and contributing to open-source projects.  
+- 👨‍💻 **Projects:** ['NOT READY YET']('NOT READY YET')  
+- 💬 **Ask me about:** Node.js development, back-end architecture, problem-solving, and soft skills improvement.  
+- 📫 **Reach me at:** haneenelbendary22022@gmail.com  
+- 📄 **Experience:** ['NOT READY YET']('NOT READY YET')  
+- ⚡ **Fun fact:** I’m a JavaScript enthusiast who believes every problem can be solved with the right code (and a little bit of coffee)! ☕💻  
 
-- 🌱 I’m currently learning **advanced Node.js concepts, system design, and scalable back-end architectures, while also focusing on improving my soft skills such as communication, leadership, and teamwork.**
-
-- 👯 I’m looking to collaborate on **open-source Node.js back-end projects**
-
-- 🤝 I’m looking for help with **exploring advanced back-end architectures, optimizing performance in Node.js applications, and contributing to open-source projects.**
-
-- 👨‍💻 All of my projects are available at ['NOT READY YET']('NOT READY YET')
-
-- 💬 Ask me about **Node.js development, back-end architecture, problem-solving strategies, or how I approach improving soft skills in a professional setting.**
-
-- 📫 How to reach me **haneenelbendary22022@gmail.com**
-
-- 📄 Know about my experiences ['NOT READY YET']('NOT READY YET')
-
-- ⚡ Fun fact **I’m a JavaScript enthusiast who believes that every problem can be solved with the right code (and a little bit of coffee)! ☕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
