@@ -34,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneen-elbendary&show_icons=true&locale=en" alt="haneen-elbendary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haneen-elbendary&" alt="haneen-elbendary" /></p>
+
+---
+
+<p align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haneen-elbendary&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <a/> <!-- Snake -->
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
