@@ -10,7 +10,9 @@
 - 👨‍💻 **Projects:** ['NOT READY YET']('NOT READY YET')  
 - 💬 **Ask me about:** Node.js development, back-end architecture, problem-solving, and soft skills improvement.  
 - 📫 **Reach me at:** haneenelbendary22022@gmail.com  
-- 📄 **Experience:** ['NOT READY YET']('NOT READY YET')  
+- 📄 **Experience:**  [Haneen-Mohamed-Elbendary-CV-.pdf](https://github.com/user-attachments/files/18813131/Haneen-Mohamed-Elbendary-CV-.pdf)
+
+
 - ⚡ **Fun fact:** I’m a JavaScript enthusiast who believes every problem can be solved with the right code (and a little bit of coffee)! ☕💻  
 
 ---
